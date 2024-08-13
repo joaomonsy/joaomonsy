@@ -17,6 +17,4 @@ src="https://img.shields.io/github/followers/joaomonsy?logo=github&style=for-the
 
 <a href="http://www.github.com/joaomonsy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joaomonsy&stroke=22c55e&background=000000&ring=10b981&fire=10b981&currStreakNum=22c55e&currStreakLabel=10b981&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
-<a href="http://www.github.com/joaomonsy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=joaomonsy&bg_color=000000&color=22c55e&line=22c55e&point=22c55e&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/joaomonsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomonsy&langs_count=10&title_color=10b981&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
