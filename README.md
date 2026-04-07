@@ -1,4 +1,15 @@
 <h2 align="center">Hello! I'm João Lucas</h2>
+<div align="center">
+  <a href="instagram.com/joaomonsy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/joão-lucas-monsynhatti-582420248/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:joaomonsinhatti@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
@@ -7,9 +18,12 @@
 ___
 
 <p><br><br>## 🚀 Sobre mim<br>Sou apaixonado por tecnologia e programação. Gosto de aprender novas linguagens, desenvolver projetos e explorar diferentes áreas da computação.<br><br>🎮 No tempo livre, gosto de jogar e ouvir música de todos os estilos.<br><br>
-###<br><br>## 🧠 Conhecimentos<br>Aqui estão algumas das tecnologias e conceitos com os quais já tive contato:</p>
+</p>
 
 ___
+
+  <p><br><br>## 🧠 Conhecimentos<br>Aqui estão algumas das tecnologias e conceitos com os quais já tive contato:</p>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
@@ -41,19 +55,8 @@ ___
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
 </div>
 
-###
+___
 
-<div align="center">
-  <a href="instagram.com/joaomonsy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joão-lucas-monsynhatti-582420248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:joaomonsinhatti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 
