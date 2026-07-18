@@ -13,16 +13,16 @@
 
 ###
 
-<p align="left"># 👋 Olá, meu nome é João Lucas<br><br>🎓 Estudante de Sistemas de Informação na USP  <br>💻 Técnico em Desenvolvimento de Sistemas pela ETEC  <br><br></p>
+<p align="left">##Olá, meu nome é João Lucas<br><br>Estudante de Sistemas de Informação na USP  <br>Técnico em Desenvolvimento de Sistemas pela ETEC  <br><br></p>
 
 ___
 
-<p><br><br>## 🚀 Sobre mim<br>Sou apaixonado por tecnologia e programação. Gosto de aprender novas linguagens, desenvolver projetos e explorar diferentes áreas da computação.<br><br>🎮 No tempo livre, gosto de jogar e ouvir música de todos os estilos.<br><br>
+<p><br><br>##Sobre mim<br>Sou apaixonado por tecnologia e programação. Gosto de aprender novas linguagens, desenvolver projetos e explorar diferentes áreas da computação.<br><br>No tempo livre, gosto de jogar e ouvir música de todos os estilos.<br><br>
 </p>
 
 ___
 
-  <p><br><br>## 🧠 Conhecimentos<br>Aqui estão algumas das tecnologias e conceitos com os quais já tive contato:</p>
+  <p><br><br>##Conhecimentos<br>Aqui estão algumas das tecnologias e conceitos com os quais já tive contato:</p>
 
 
 <div align="center">
